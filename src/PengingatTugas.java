@@ -103,6 +103,7 @@ class DaftarTugas {
             System.out.println("Tugas berhasil dihapus.");
         } else {
             System.out.println("Nomor tugas tidak valid!");
+            System.out.println("kiki");
         }
     }
 }
